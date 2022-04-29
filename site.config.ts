@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'XiaJia.Im',
   domain: 't.xiajia.im',
-  author: 'Jia Xia',
+  author: 'Xia Jia',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
